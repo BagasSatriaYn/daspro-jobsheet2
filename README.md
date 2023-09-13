@@ -1,3 +1,3 @@
 # Dasar Pemrogaman - Jobsheet 2
 
-“Hi Github, ini adalah repository pertama saya.”.
+“Aloha Github, ini adalah repository pertama saya.”.
